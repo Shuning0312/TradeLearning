@@ -1,6 +1,6 @@
 官方配置手册
 
-[https://www.freqtrade.io/en/stable/configuration/](about:blank)
+[https://www.freqtrade.io/en/stable/configuration/](https://www.freqtrade.io/en/stable/configuration/)
 
 简单策略样例
 

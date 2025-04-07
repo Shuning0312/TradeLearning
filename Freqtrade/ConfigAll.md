@@ -1,6 +1,6 @@
 本文档整理了Freqtrade官方配置手册，官方手册如下👇
 
-[https://www.freqtrade.io/en/stable/configuration/](about:blank)
+[https://www.freqtrade.io/en/stable/configuration/](https://www.freqtrade.io/en/stable/configuration/)
 
 【对配置项有更新的详细理解，欢迎在文档中随时补充👏】
 

@@ -1,11 +1,11 @@
 # 部署手册
 官方手册
 
-https://www.freqtrade.io/en/stable/installation/
+[https://www.freqtrade.io/en/stable/installation/](https://www.freqtrade.io/en/stable/installation/)
 
 Mac手动部署, 可参考MACOS官方部署文档如下👇
 
-https://www.freqtrade.io/en/stable/installation/#__tabbed_1_2
+[https://www.freqtrade.io/en/stable/installation/#__tabbed_1_2](https://www.freqtrade.io/en/stable/installation/#__tabbed_1_2)
 
 ## 详细部署步骤
 ### 1. 克隆仓库、切换稳定分支(stable)

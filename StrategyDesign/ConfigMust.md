@@ -1,3 +1,6 @@
+# 回测策略必要配置
+本文档整理总结了回测策略算法时，必要的配置项
+
 官方配置手册
 
 [https://www.freqtrade.io/en/stable/configuration/](https://www.freqtrade.io/en/stable/configuration/)
@@ -11,7 +14,7 @@
 + `max_open_trades`：持有最大未平仓交易数。取值可以是正整数，用来限制同时进行的交易数量；也可以设为`-1`，表示不受限制，但实际数量仍可能受**交易对列表长度的约束**。
 + `stake_currency`：明确交易的基础货币，如常见的`"USDT"` 。
 + `stake_amount`：每笔交易投入加密货币数量（正数或"unlimited"）。例如，设置为`0.005`，则每次交易固定投入 0.005 个单位的`stake_currency`；若设为`"unlimited"`，会根据可用余额和允许的交易数量动态分配交易金额 。
-+ **  **`order_types`：订单类型映射，明确是限价单 or 市价单
++ `order_types`：订单类型映射，明确是限价单 or 市价单
 
 ```python
 # Optional order type mapping
